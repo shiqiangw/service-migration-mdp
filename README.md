@@ -1,6 +1,6 @@
 ### Dynamic Service Migration in Mobile Edge Computing Based on Markov Decision Process
 
-This is the source code for the paper S. Wang, R. Urgaonkar, M. Zafer, T. He, K. Chan, K. K. Leung, "Dynamic service migration in mobile edge computing based on Markov decision process," IEEE/ACM Transactions on Networking, vol. 27, no. 3, pp. 1272 – 1288, Jun. 2019. (arXiv link: [https://arxiv.org/abs/1506.05261](https://arxiv.org/abs/1506.05261))
+This is the simulation code for the paper S. Wang, R. Urgaonkar, M. Zafer, T. He, K. Chan, K. K. Leung, "Dynamic service migration in mobile edge computing based on Markov decision process," IEEE/ACM Transactions on Networking, vol. 27, no. 3, pp. 1272 – 1288, Jun. 2019. (arXiv link: [https://arxiv.org/abs/1506.05261](https://arxiv.org/abs/1506.05261))
 
 The code runs best on MATLAB. It also runs on [GNU Octave](https://www.gnu.org/software/octave/) but the plot of instantaneous cost may be shown with lower granularity.
 
